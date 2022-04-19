@@ -32,7 +32,7 @@ python test.py
 
 ### Training
 ```
-python train.py
+python tf_train.py
 ```
 
 
